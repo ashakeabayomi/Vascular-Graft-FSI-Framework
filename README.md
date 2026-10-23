@@ -65,6 +65,8 @@ The goal is a connected workflow in which geometry, experimental imaging, and si
 - Calculates **morphometric descriptors**, chiefly the **cell aspect ratio** (major axis / minor axis), as a quantitative readout of elongation and alignment on the gratings.
 - Libraries: `numpy`, `pandas`, `matplotlib`.
 - *Included example:* `scripts/cell_stretch_demo.py` is a simple 2D model of a cell boundary stretching over a 2 µm grating background.
+- ![Cell Stretch Demo](cell_stretch_demo.png)
+
 
 ### 4. COMSOL Multiphysics + MATLAB: FSI Engine *(under active development)*
 - **Intended core engine** of the framework.
